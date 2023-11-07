@@ -1,10 +1,16 @@
 **Computer Password Guessing Visualization**
 
-This project is a visualization demonstration that showcases how quickly computers can guess numeric passwords. It serves as a stark reminder of the importance of using strong, non-numeric passwords. While numeric passwords are commonly used for various applications, it is recommended to employ alphanumeric and symbol-based passwords for enhanced security in real-life scenarios.
+This project is a captivating demonstration that showcases how quickly computers can guess numeric passwords and the importance of strong password practices. It serves as a powerful reminder of the significance of using strong, non-repetitive, non-numeric passwords.
 
-In this controlled environment, you can witness the speed at which a computer can guess numeric passwords. Keep in mind that most websites, mobile devices, and systems have security measures in place to prevent unauthorized password guessing. This project illustrates the capabilities of password guessing in a simulated setting.
+**Technologies Used:**
 
-Feel free to explore the code and watch the accompanying video demonstration to understand the significance of password security in the digital age.
+- Python
+- Random number generation
+- Time measurement
 
-[![Watch the Video](https://i.vimeocdn.com/video/12345)](https://vimeo.com/882289426)
+In this controlled environment, you can witness the speed at which a computer can guess numeric passwords while emphasizing the need for more secure and unique password choices. The project serves as a visual representation of the capabilities of password guessing in a simulated setting.
 
+Please note that the project is demonstrated in a video, and the code will not be available for public access.
+
+
+[Watch the Video](https://vimeo.com/882289426)
