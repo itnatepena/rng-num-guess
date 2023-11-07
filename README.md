@@ -1,3 +1,6 @@
+![image](https://github.com/itnatepena/rng-num-guess/assets/147539410/56fa8f2a-e168-4129-a9b0-8afe7ca068b0)
+
+
 <h1>Computer Password Guessing Visualization</h1>
 
 This project is a captivating demonstration that showcases how quickly computers can guess numeric passwords and the importance of strong password practices. It serves as a powerful reminder of the significance of using strong, non-repetitive, non-numeric passwords.
@@ -15,4 +18,4 @@ Please note that the project is demonstrated in a video, and the code will not b
 
 [Watch the Video](https://vimeo.com/882289426)
 <br>
-Hosted with Vimeo.
+(Hosted with Vimeo)
