@@ -1,4 +1,4 @@
-**Computer Password Guessing Visualization**
+<h1>Computer Password Guessing Visualization</h1>
 
 This project is a captivating demonstration that showcases how quickly computers can guess numeric passwords and the importance of strong password practices. It serves as a powerful reminder of the significance of using strong, non-repetitive, non-numeric passwords.
 
