@@ -6,4 +6,5 @@ In this controlled environment, you can witness the speed at which a computer ca
 
 Feel free to explore the code and watch the accompanying video demonstration to understand the significance of password security in the digital age.
 
-[**Watch the Video Demonstration**](#)
+[![Watch the Video](https://i.vimeocdn.com/video/12345)](https://vimeo.com/882289426)
+
