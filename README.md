@@ -1,21 +1,22 @@
 ![image](https://github.com/itnatepena/rng-num-guess/assets/147539410/56fa8f2a-e168-4129-a9b0-8afe7ca068b0)
+# Numerical Password Guesser
 
+The Numerical Password Guesser project is a demonstration of the vulnerabilities associated with using numerical passwords and serves as a visualization of how quickly computers can crack such codes. The project highlights my understanding of programming, cybersecurity principles, and my commitment to exploring relevant topics.
 
-<h1>Computer Password Guessing Visualization</h1>
+## Key Features:
 
-This project is a captivating demonstration that showcases how quickly computers can guess numeric passwords and the importance of strong password practices. It serves as a powerful reminder of the significance of using strong, non-repetitive, non-numeric passwords.
+- Developed in Python, the project allows users to input a numerical password between 0 and 999,999.
+- Utilizing an efficient approach, the program guesses the inputted password within a remarkably short time frame of just 2 seconds.
+- Trained the model to avoid guessing the same answer twice for improved machine/script efficiency.
+- Through a visually engaging video demonstration, the project emphasizes the importance of using strong passwords and highlights the risks of relying solely on numerical passwords.
 
-**Technologies Used:**
+## Lessons Conveyed:
 
-- Python
-- Random number generation
-- Time measurement
+- The project underscores the importance of employing strong, alphanumeric passwords that include a mix of numbers, letters, and special characters.
+- It serves as a reminder that relying solely on numerical passwords can leave individuals vulnerable to rapid password cracking attempts.
 
-In this controlled environment, you can witness the speed at which a computer can guess numeric passwords while emphasizing the need for more secure and unique password choices. The project serves as a visual representation of the capabilities of password guessing in a simulated setting.
+The Numerical Password Guesser project demonstrates my understanding of programming, cybersecurity principles, and my commitment to exploring relevant topics.
 
-Please note that the project is demonstrated in a video, and the code will not be available for public access.
-
-
-[Watch the Video](https://vimeo.com/882289426)
+**[Watch the Video](https://vimeo.com/882289426)**
 <br>
 (Hosted with Vimeo)
